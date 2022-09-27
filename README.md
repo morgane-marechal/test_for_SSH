@@ -25,3 +25,4 @@ A:	Seven.  Scotty has to report to Captain Kirk that the light bulb in
 	just saved the natives' from an awful fate and, as a reward, been
 	given all light bulbs they can carry.  The new bulb is then inserted
 	and the Enterprise continues on its five year mission.
+It was all so different before everything changed.
