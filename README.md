@@ -26,3 +26,5 @@ A:	Seven.  Scotty has to report to Captain Kirk that the light bulb in
 	given all light bulbs they can carry.  The new bulb is then inserted
 	and the Enterprise continues on its five year mission.
 It was all so different before everything changed.
+Q:	Why do firemen wear red suspenders?
+A:	To conform with departmental regulations concerning uniform dress.
