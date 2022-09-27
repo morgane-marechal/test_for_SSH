@@ -5,6 +5,7 @@ wrtie something for conflict
 write something
 write something else
 something for test the script
+just some quote from the linux fortune programm
 Q:	How many members of the U.S.S. Enterprise does it take to change a
 	light bulb?
 A:	Seven.  Scotty has to report to Captain Kirk that the light bulb in
@@ -29,3 +30,5 @@ It was all so different before everything changed.
 Q:	Why do firemen wear red suspenders?
 A:	To conform with departmental regulations concerning uniform dress.
 Do something unusual today.  Pay a bill.
+
+Just wrting something for doing a pull with git after
