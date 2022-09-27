@@ -28,3 +28,4 @@ A:	Seven.  Scotty has to report to Captain Kirk that the light bulb in
 It was all so different before everything changed.
 Q:	Why do firemen wear red suspenders?
 A:	To conform with departmental regulations concerning uniform dress.
+Do something unusual today.  Pay a bill.
